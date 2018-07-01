@@ -1,2 +1,2 @@
-# repo
+# Repository
 Nothing here biatch.
